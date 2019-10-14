@@ -1,4 +1,4 @@
-<h1> Hello, Kaustubh Chutiya loude
-<h2> AWS & DevOps training 
-<h2> Happy learning 
+<h1> Hello World </h1>
+<h2> AWS & DevOps training </h2>
+<h2> Happy learning </h2>
 
